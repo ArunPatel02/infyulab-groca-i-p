@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/infyulab-groca-i-p/static/css/main.892c54a4.chunk.css",
+    "main.js": "/infyulab-groca-i-p/static/js/main.c0851697.chunk.js",
+    "main.js.map": "/infyulab-groca-i-p/static/js/main.c0851697.chunk.js.map",
+    "runtime-main.js": "/infyulab-groca-i-p/static/js/runtime-main.47f8c704.js",
+    "runtime-main.js.map": "/infyulab-groca-i-p/static/js/runtime-main.47f8c704.js.map",
+    "static/js/2.e7683d79.chunk.js": "/infyulab-groca-i-p/static/js/2.e7683d79.chunk.js",
+    "static/js/2.e7683d79.chunk.js.map": "/infyulab-groca-i-p/static/js/2.e7683d79.chunk.js.map",
+    "static/js/3.9a7692f4.chunk.js": "/infyulab-groca-i-p/static/js/3.9a7692f4.chunk.js",
+    "static/js/3.9a7692f4.chunk.js.map": "/infyulab-groca-i-p/static/js/3.9a7692f4.chunk.js.map",
+    "index.html": "/infyulab-groca-i-p/index.html",
+    "static/css/main.892c54a4.chunk.css.map": "/infyulab-groca-i-p/static/css/main.892c54a4.chunk.css.map",
+    "static/js/2.e7683d79.chunk.js.LICENSE.txt": "/infyulab-groca-i-p/static/js/2.e7683d79.chunk.js.LICENSE.txt",
+    "static/media/Shop-1.b95f0d98.png": "/infyulab-groca-i-p/static/media/Shop-1.b95f0d98.png",
+    "static/media/Shop-10.aa7a5ad7.png": "/infyulab-groca-i-p/static/media/Shop-10.aa7a5ad7.png",
+    "static/media/Shop-11.83cdfdaf.png": "/infyulab-groca-i-p/static/media/Shop-11.83cdfdaf.png",
+    "static/media/Shop-12.83cdfdaf.png": "/infyulab-groca-i-p/static/media/Shop-12.83cdfdaf.png",
+    "static/media/Shop-2.f053a12f.png": "/infyulab-groca-i-p/static/media/Shop-2.f053a12f.png",
+    "static/media/Shop-3.ee41c012.png": "/infyulab-groca-i-p/static/media/Shop-3.ee41c012.png",
+    "static/media/Shop-4.43debfea.png": "/infyulab-groca-i-p/static/media/Shop-4.43debfea.png",
+    "static/media/Shop-5.02b832de.png": "/infyulab-groca-i-p/static/media/Shop-5.02b832de.png",
+    "static/media/Shop-6.83bf2bed.png": "/infyulab-groca-i-p/static/media/Shop-6.83bf2bed.png",
+    "static/media/Shop-7.35e35c1a.png": "/infyulab-groca-i-p/static/media/Shop-7.35e35c1a.png",
+    "static/media/Shop-8.1ed008b9.png": "/infyulab-groca-i-p/static/media/Shop-8.1ed008b9.png",
+    "static/media/Shop-9.11e97458.png": "/infyulab-groca-i-p/static/media/Shop-9.11e97458.png",
+    "static/media/banner.fd4d2f5f.jpg": "/infyulab-groca-i-p/static/media/banner.fd4d2f5f.jpg",
+    "static/media/image1a.9a31cdaf.jpg": "/infyulab-groca-i-p/static/media/image1a.9a31cdaf.jpg",
+    "static/media/image2a.4fda9eda.jpg": "/infyulab-groca-i-p/static/media/image2a.4fda9eda.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47f8c704.js",
+    "static/js/2.e7683d79.chunk.js",
+    "static/css/main.892c54a4.chunk.css",
+    "static/js/main.c0851697.chunk.js"
+  ]
+}
