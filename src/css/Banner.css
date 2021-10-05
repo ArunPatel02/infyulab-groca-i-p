@@ -110,3 +110,30 @@
 .reccomded .rc1 .rc2{
     background-color: #ffdb4f;
 }
+
+@media (max-width: 900px) {
+    .image_conatiner .bannertext{
+        left: 0;
+        background: #ffffff7a;
+        width: 100%;
+        align-items: center;
+    }
+}
+
+@media (max-width: 600px) {
+    .image_conatiner .bannertext img{
+        width: 30px;
+    }
+    .image_conatiner .bannertext h3{
+        font-size: 1.2rem;
+        margin-top: 5px;
+    }
+    .image_conatiner .bannertext h1{
+        font-size: 3rem;
+        margin-top: 5px;
+    }
+    .image_conatiner .bannertext .shopnow{
+        font-size: 1.3rem;
+        margin-top: 5px;
+    }
+}

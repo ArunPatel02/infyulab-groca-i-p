@@ -74,6 +74,10 @@
   margin: 0px 40px 0px 70px;
 }
 
+.header_middle .toggle{
+  display: none;
+}
+
 .header_middle .navigation li{
   display: flex;
   align-items: center;
@@ -159,4 +163,43 @@
     padding: 0px 20px;
     background: var(--primary-color--);
     color: white;
+}
+
+@media (max-width : 900px) {
+  .header_middle{
+    justify-content: space-around;
+  }
+  .header_middle .navigation{
+    display: none;
+  }
+  .header_middle .toggle{
+    display: block;
+  }
+  .header_bottom .all_departments{
+    display: none;
+  }
+  .header_bottom {
+    justify-content: center;
+    min-width: 500px;
+  }
+  .header_bottom .search_container{
+    width: 100%;
+  }
+}
+
+@media (max-width : 650px) {
+  .header .header_strip{
+    flex-direction: column;
+  }
+}
+
+@media (max-width : 650px) {
+  html{
+    font-size: 48.5%;
+  }
+  .header_bottom{
+    width: 100%;
+    min-width: 300px;
+  }
+
 }

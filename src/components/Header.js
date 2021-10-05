@@ -51,6 +51,7 @@ const Header = () => {
                             <li>pages <ArrowDropDownIcon/></li>
                             <li>contact us</li>
                         </ul>
+                        <DehazeIcon className="toggle"/>
                     <div className="user_action">
                         <FavoriteBorderIcon />
                         <ShoppingCartOutlinedIcon />
